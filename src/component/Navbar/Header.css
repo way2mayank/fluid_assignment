@@ -1,0 +1,17 @@
+.header {
+    background-color: #7e7a7a;
+    padding: 20px;
+  }
+  
+  .header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+.header li{
+    padding-left: 20px;
+    font-size: x-large;
+}
